@@ -115,3 +115,4 @@ Before sending your pull requests, make sure you followed this list.
 Everything in this repository is under a [GNU General Public License v3.0](https://github.com/RentadroneCL/AI-Agro/blob/master/LICENSE).
 
 All The data sources & datasets in this repository is under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt).
+
