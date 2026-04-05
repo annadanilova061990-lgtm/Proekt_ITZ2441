@@ -8,6 +8,3 @@
 ![Confusion Matrix](confusion_matrix.png)
 
 Вывод: модель хорошо справляется с задачей.
-
-
-

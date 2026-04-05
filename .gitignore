@@ -1,13 +1,30 @@
+# Python
 __pycache__/
-Barrack A/
-Barrack B/
-Caso2/
-.ipynb_checkpoints/
-factoring.py
-*.png
-*.html
-*.txt
-*.tiff
-*.tif
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+dist/
+build/
 
+# Data & models
+data/
+*.zip
+*.pth
+*.pt
+*.h5
+*.pkl
 
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs & results
+logs/
+wandb/
+reports/
+results/
