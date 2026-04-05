@@ -340,3 +340,4 @@ def lines2circles(List_lines, r_circle = 10, n_important = -1):
 
 
     return  np.uint(np.array(centers_filter))
+

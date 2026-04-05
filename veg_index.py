@@ -318,3 +318,4 @@ class Image_Multi():
                                                         List_lines_origin - Utils.order_points_rect(Points)[0] + Utils.order_points_rect(P)[0]))# In image complet # Put line in big image
 
         return List_lines_origin_complete
+
