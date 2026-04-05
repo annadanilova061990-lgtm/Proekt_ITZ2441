@@ -8,3 +8,4 @@ if [ -f "src/evaluate.py" ]; then
     python src/evaluate.py
 fi
 echo "Pipeline completed."
+

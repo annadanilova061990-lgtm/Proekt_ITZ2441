@@ -8,3 +8,4 @@ kaggle datasets download -d emmarex/plantdisease -p ../data/raw/
 unzip -q ../data/raw/plantdisease.zip -d ../data/raw/
 rm ../data/raw/plantdisease.zip
 echo "Dataset ready in ../data/raw/"
+
